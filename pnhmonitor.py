@@ -27,7 +27,8 @@ def ping_host(host):
 
 # List of company branch IP addresses
 branch_ips = {
-    'Printer': '192.168.1.125'
+    'Branch1': 'x.x.x.x',
+    'Branch2': 'x.x.x.x',
 }
 # Main monitoring function
 def monitor_network():
