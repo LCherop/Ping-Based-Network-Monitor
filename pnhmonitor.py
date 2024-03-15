@@ -41,8 +41,8 @@ async def ping_host(host,max_retries=4,retry_delay=1):
 
 # List of company branch IP addresses
 branch_ips = {
-    'Google':'8.8.8.8',
-    'Pseudo':'abc.acd.lop.pll'
+    'Branch1':'x.x.x.x',
+    'Branch2':'x.x.x.x',
 }
 
 #Check for valid IPs
