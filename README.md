@@ -14,7 +14,7 @@ pip install win10toast
 OR 
 
 ```bash
-pip install win10toast
+pip install plyer
 ```
 
 ### Usage:
