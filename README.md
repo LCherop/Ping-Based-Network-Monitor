@@ -1,4 +1,4 @@
-# Ping-Based-Network-Health-Monitor
+# Ping-Based-Network-Monitor
 
 Ping-Based-Network-Health-Monitor is a program designed to monitor network health based on ping responses. It provides real-time monitoring of servers or network devices, allowing you to quickly identify any issues or downtime.
 
@@ -6,7 +6,12 @@ Ping-Based-Network-Health-Monitor is a program designed to monitor network healt
 - Python needs to be installed on the device.
 
 ### Installation:
-After installing Python, you'll need to install `win10toast` for desktop toast notifications. You can install it via pip by running the following command in the command prompt:
+After installing Python, you'll need to install `win10toast` or plyer for desktop toast notifications. You can install it via pip by running the following command in the command prompt:
+
+```bash
+pip install win10toast
+```
+OR 
 
 ```bash
 pip install win10toast
